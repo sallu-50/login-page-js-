@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "../../../Users/Aihcon/OneDrive/Desktop/salman"
+		},
+		{
+			"path": "../salman/crypto.php"
+		},
+		{
+			"path": "../crud_practice"
+		},
+		{
+			"path": "../bank-manegment"
+		},
+		{
+			"path": "../pppp"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "salman"
+	}
+}

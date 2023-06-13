@@ -1,0 +1,93 @@
+.width{
+    width: 450px;
+}
+.color{
+    background-color: rgb(115, 103, 240);color: white;
+}
+.color2{
+    color:  rgb(115, 103, 240);text-decoration: none;
+}
+.form-check-input{
+    color:  rgb(115, 103, 240);
+}
+.flex{
+    display: flex;
+    margin: 10px;
+    justify-content: space-between;
+
+}
+.image{
+background-color: rgb(248,247, 250);width: 50rem;float: left;margin-left: 2rem;margin-top: 2rem; border-radius: 5px; display: flex;  justify-content: center;align-items: center;
+    
+}
+.img{
+    width: 450px;height: 500px;
+}
+.img2{
+  width: 450px;height: 500px;margin: 2rem;
+}
+.col-md-7 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(248,247, 250);
+    margin: 2rem;
+  }
+  
+  .formvalidation{
+    width: 400px;
+    float: right;
+    margin-right: 2rem;
+    padding-top: 4rem;
+  }
+  .remember{
+    display: flex;
+    justify-content: space-between;
+    
+    
+  }.forgot2{
+    color:rgb(115, 103, 240) ;
+  }
+  .forgot{
+    text-align: right;
+    
+  }
+  .facebook{background-color: rgb(205, 209, 209);
+    padding: 7px; padding-left: 9px;padding-right: 9px;
+    border-radius: 5px;
+  }
+  .google {
+    background-color: rgb(247, 193, 193);border-radius: 5px;
+  }
+  .twiter{
+    background-color: rgb(205, 209, 209);border-radius: 5px;
+  }
+  .icon {
+   color: #979494;
+  }
+  
+  hr {
+    border: none;
+    border-top: 3px double #0c0909;
+    color: #020101;
+    overflow: visible;
+    text-align: center;
+    height: 5px;
+    margin-top: 10px;
+}
+
+hr:after {
+     background: #fff;
+    content: 'or';
+    padding: 0 8px;
+    position: relative;
+    top: -13px;
+}
+.strong{
+  color: rgb(252, 55, 55);font-size: 12px;
+}
+@media (max-width: 600px) { /* Adjust the maximum width as per your requirement */
+  .col-md-7 {
+    display: none;
+  }
+}
